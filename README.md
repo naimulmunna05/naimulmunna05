@@ -36,11 +36,14 @@
 
 ### 🏆 GitHub Trophies:
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naimulmunna05&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naimulmunna05&theme=radical&no-bg=true" alt="GitHub Trophies" />
+</p>
 
 
+### 📊 Contribution Activity Graph:
 
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimulmunna05&theme=radical&hide_border=true)
 
 ### 📈 Profile Summary:
 
