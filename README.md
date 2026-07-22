@@ -54,3 +54,14 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=naimulmunna05&color=brightgreen&style=flat)
 
 
+
+### 🌐 Connect with me:
+
+<p>
+  <a href="https://linkedin.com/in/md-munna-bb0008373/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:naimulmunna05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
