@@ -1,10 +1,11 @@
 ### 👋 Hey, I'm Munna!
-
 💻 Former CSE student at North South University
 🔒 CCNA learner & Cybersecurity enthusiast
 🌐 Focused on networking, network defense & infrastructure security 👋
-### 💻 Tech Stack:
 
+
+
+### 💻 Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -16,47 +17,41 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 📊 GitHub Stats:
 
+
+### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimulmunna05&theme=radical" alt="GitHub Stats" />
 </p>
 
 
 ### 💻 Most Used Languages:
-
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naimulmunna05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###  🔥 GitHub Streak:
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulmunna05&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naimulmunna05&theme=radical&no-bg=true" alt="GitHub Trophies" />
-</p>
 
 
 ### 📊 Contribution Activity Graph:
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimulmunna05&theme=radical&hide_border=true)
 
-### 📈 Profile Summary:
 
+
+### 📈 Profile Summary:
 [![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimulmunna05&theme=radical)](https://github.com/vn7n24fzkgq/github-profile-summary-cards)
 
-### 👁️ Visitors:
 
+
+### 👁️ Visitors:
 ![Visitor Count](https://komarev.com/ghpvc/?username=naimulmunna05&color=brightgreen&style=flat)
 
 
 
 ### 🌐 Connect with me:
-
 <p>
   <a href="https://linkedin.com/in/md-munna-bb0008373/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -65,3 +60,7 @@
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+
+
+
