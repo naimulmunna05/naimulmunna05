@@ -34,9 +34,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulmunna05&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🏆 Top Stats & Metrics:
+### 🏆 GitHub Trophies:
 
-[![Naimul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimulmunna05&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naimulmunna05&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
