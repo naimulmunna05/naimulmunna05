@@ -21,3 +21,24 @@
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimulmunna05&theme=radical" alt="GitHub Stats" />
 </p>
+
+
+### 💻 Most Used Languages:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.profile/api/top-langs/?username=naimulmunna05&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+###  🔥 GitHub Streak:
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulmunna05&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🏆 GitHub Trophies:
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=naimulmunna05&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+
