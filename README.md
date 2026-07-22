@@ -36,9 +36,15 @@
 
 ### 🏆 GitHub Trophies:
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naimulmunna05&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naimulmunna05&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/profile-details?username=naimulmunna05&theme=radical)](https://github.com/vn7n24fzkgq/github-profile-summary-cards)
+### 📈 Profile Summary:
+
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimulmunna05&theme=radical)](https://github.com/vn7n24fzkgq/github-profile-summary-cards)
+
+### 👁️ Visitors:
+
+![Visitor Count](https://komarev.com/ghpvc/?username=naimulmunna05&color=brightgreen&style=flat)
 
 ### visitors:
 
