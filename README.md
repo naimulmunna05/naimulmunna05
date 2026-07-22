@@ -1,7 +1,8 @@
-### <p align="center">👋 Hey there! I'm Munna!</p>
+<p align="center">👋 Hey there! I'm Munna!</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=💻+Former+CSE+student+at+North+South+University;🔒+CCNA+learner+%26+Cybersecurity+enthusiast;🌐+Focused+on+networking%2C+network+defense+%26+infrastructure+security." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=900&height=60&lines=💻+Former+CSE+student+at+North+South+University;🔒+CCNA+learner+%26+Cybersecurity+enthusiast;🌐+Focused+on+networking%2C+network+defense+%26+infrastructure+security." alt="Typing SVG" />
 </p>
+
 
 
 
