@@ -36,8 +36,6 @@
 
 ### 🏆 GitHub Trophies:
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=naimulmunna05&theme=radical" alt="GitHub Trophies" />
-</p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naimulmunna05&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
