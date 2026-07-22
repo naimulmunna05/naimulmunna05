@@ -1,7 +1,8 @@
-### 👋 Hey, I'm Munna!
-💻 Former CSE student at North South University
-🔒 CCNA learner & Cybersecurity enthusiast
-🌐 Focused on networking, network defense & infrastructure security 👋
+### <p align="center">👋 Hey there! I'm Munna!</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&pause=1500&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=💻+Former+CSE+student+at+North+South+University;🔒+CCNA+learner+%26+Cybersecurity+enthusiast;🌐+Focused+on+networking%2C+network+defense+%26+infrastructure+security." alt="Typing SVG" />
+</p>
+
 
 
 
@@ -27,6 +28,21 @@
 
 ### 💻 Most Used Languages:
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naimulmunna05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### 🛠️ Languages & Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+</p>
+
+
+
+
+
 
 
 ###  🔥 GitHub Streak:
