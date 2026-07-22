@@ -18,4 +18,6 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimulmunna05&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimulmunna05&theme=radical" alt="GitHub Stats" />
+</p>
