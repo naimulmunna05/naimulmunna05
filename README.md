@@ -25,9 +25,7 @@
 
 ### 💻 Most Used Languages:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulmunna05&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimulmunna05&layout=compact&theme=radical)
 
 ###  🔥 GitHub Streak:
 
