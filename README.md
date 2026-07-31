@@ -20,6 +20,10 @@
 </p>
 
 
+### 🛠️ Tools:
+
+<img src="https://img.shields.io/badge/CISCO%20PACKET%20TRACER-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+
 
 ### 📊 GitHub Stats:
 <p align="left">
