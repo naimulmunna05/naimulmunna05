@@ -27,7 +27,8 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimulmunna05&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Username-naimulmunna05-blue?style=for-the-badge&logo=github" alt="Username" />
+  <img src="https://img.shields.io/badge/Total_Contributions-233-orange?style=for-the-badge&logo=git" alt="Total Contributions" />
 </p>
 
 ### 💻 Most Used Languages:
