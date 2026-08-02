@@ -27,9 +27,8 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimulmunna05&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naimulmunna05&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 
 ### 💻 Most Used Languages:
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naimulmunna05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,9 +61,10 @@
 
 
 
-### 📈 Profile Summary:
-[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimulmunna05&theme=radical)](https://github.com/vn7n24fzkgq/github-profile-summary-cards)
-
+### 📉 Profile Summary:
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimulmunna05&theme=radical" alt="Profile Summary Cards" />
+</p>
 
 
 ### 👁️ Visitors:
