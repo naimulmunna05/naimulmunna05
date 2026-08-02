@@ -25,11 +25,6 @@
 <img src="https://img.shields.io/badge/CISCO%20PACKET%20TRACER-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
 
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://img.shields.io/badge/Username-naimulmunna05-blue?style=for-the-badge&logo=github" alt="Username" />
-  <img src="https://img.shields.io/badge/Total_Contributions-233-orange?style=for-the-badge&logo=git" alt="Total Contributions" />
-</p>
 
 ### 💻 Most Used Languages:
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naimulmunna05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,10 +57,7 @@
 
 
 
-### 📉 Profile Summary:
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimulmunna05&theme=radical" alt="Profile Summary Cards" />
-</p>
+
 
 
 ### 👁️ Visitors:
