@@ -41,22 +41,13 @@
 
 
 
-
-
-
-
-###  🔥 GitHub Streak:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulmunna05&theme=radical" alt="GitHub Streak" />
-</p>
+### 🔥 GitHub Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naimulmunna05&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
 ### 📊 Contribution Activity Graph:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimulmunna05&theme=radical&hide_border=true)
-
-
-
 
 
 
