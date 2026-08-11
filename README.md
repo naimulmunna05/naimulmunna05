@@ -26,8 +26,13 @@
 
 
 
+
 ### 💻 Most Used Languages:
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naimulmunna05&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimulmunna05&theme=tokyonight" />
+</p>
+
 
 
 
