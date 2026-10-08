@@ -51,9 +51,6 @@
 
 
 
-### 📊 Contribution Activity Graph:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimulmunna05&theme=radical&hide_border=true)
-
 
 
 ### 👁️ Visitors:
